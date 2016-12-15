@@ -6,6 +6,7 @@ package com.tagetik.git;
 public class Test {
     @Override
     public String toString() {
+        int a = 2;
         return super.toString();
     }
 }
